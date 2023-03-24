@@ -5,3 +5,6 @@
 ```
 python tieba_check-in.py
 ```
+
+## 文件说明
+proxy：`免费代理爬取`
