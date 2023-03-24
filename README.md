@@ -3,5 +3,5 @@
 
 ## 运行
 ```
-python tieba_ check-in.py
+python tieba_check-in.py
 ```
