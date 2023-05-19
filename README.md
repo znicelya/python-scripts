@@ -7,3 +7,4 @@
 | tieba_check_in | 百度贴吧批量签到脚本 |
 | yiban | 壹伴公众号模板抓取 |
 | FastDFS | FDFS操作脚本，依赖py3Fdfs |
+| bug | 大青虫喊话 |
